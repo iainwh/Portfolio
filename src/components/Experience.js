@@ -7,7 +7,7 @@ const Experience = () => {
                 <li>
                     <i>Python course</i>, 2022
                     <ul>
-                        <li>Python Course</li>
+                        <li>Python Course expected to finish end of August 2022.</li>
                     </ul>
                 </li>
                 <li>
